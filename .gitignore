@@ -5,3 +5,7 @@ venv/
 __pycache__/
 .mypy_cache/
 *.pyc
+.idea
+dest/
+dist/
+*.egg-info*
